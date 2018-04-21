@@ -1,0 +1,16 @@
+.logo {
+   text-align: center;
+}
+
+.navbar-header {
+    text-align: center;
+}
+
+body {
+    background-image: url(images/background.jpg);
+}
+
+.playback {
+    background-image: url(images/spices.jpg);
+    
+}
