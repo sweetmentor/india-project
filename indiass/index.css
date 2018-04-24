@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Lusitana:100,200,300,400,500,600,700');
+
+/*---------------------------colors------------------------*/
+
+
+
+
+.outer {
+    margin: 0;
+}
+body {
+    background-image: url("../images/background.jpg");
+}
+
+
+
+.picture {
+    
+    background-position: center;
+}
+           
+.logo {
+    background: url("../images/logo.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 120px;
+    margin-left: 20px;
+    transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+         -webkit-transition: all .5s ease-in-out
+}
+     
+.title {
+    font-family: 'Lusitana', serif;
+    color: green;
+    font-size: 80px;
+    font-weight: 100;
+}
+      
+navbar header {
+    height: 220px;
+    text-align: center;
+    font-size: 70px; 
+    padding: 0;
+}
+
+
+
+
